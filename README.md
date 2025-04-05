@@ -24,7 +24,7 @@
 <br><br>
 
 <div align="center">
-  <img src="http://mazandi.herokuapp.com/api?handle={jih023}&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=jih023&theme=warm"/>
 </div>
 
 <!--
