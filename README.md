@@ -1,4 +1,5 @@
 # Hong Jiho 😼
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jih023.tistory.com/)](https://jih023.tistory.com/)
 
 ## 💪 Skills
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
