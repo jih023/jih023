@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin: 8px;" />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jih023&utm_content=farm">
@@ -24,7 +24,7 @@
 <br><br>
 
 <div align="center">
-  <img src="http://mazandi.herokuapp.com/api?jih023={jih023}&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle={jih023}&theme=warm"/>
 </div>
 
 <!--
