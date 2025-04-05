@@ -11,8 +11,8 @@
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## 🔍 PS
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jih023)]
-[![Solved.ac streack](http://mazandi.herokuapp.com/api?handle=jih023&theme=warm)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jih023)
+[![Solved.ac streack](http://mazandi.herokuapp.com/api?handle=jih023&theme=warm)](https://solved.ac/jih023/)
 
 ## 🐮 My git farm
 <div>
