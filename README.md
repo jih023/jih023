@@ -1,31 +1,30 @@
-<div align="center">
-  <h1>Hi! I'm Hong Jiho 👋</h1>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 8px;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" style="margin: 8px;" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin: 8px;" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin: 8px;" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="margin: 8px;" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin: 8px;" />
-</div>
+# Hong Jiho 😼
 
-<br>
+## 💪 Skills
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-<div align="center">
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+## 🔍 PS
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jih023)](https://solved.ac/jih023/)
+[![Solved.ac streack](http://mazandi.herokuapp.com/api?handle=jih023&theme=warm)
+
+## 🐮 My git farm
+<div>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jih023&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/jih023"
-    width="600"
-    height="300"
+    height="200em"
   />
   </a>
 </div>
 
-<br><br>
 
-<div align="center">
-  <img src="http://mazandi.herokuapp.com/api?handle=jih023&theme=warm"/>
-</div>
 
 <!--
 **jih023/jih023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
